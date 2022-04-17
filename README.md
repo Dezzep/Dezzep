@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jacob
-- 👀 I’m interested in Web Develepment
-- 🌱 I’m currently learning through the Odin Project
-- 📫 email: jacobhandelman@gmail.com
+I'm Jacob,
+Learning web dev through the odin project.
+
+Reach me at: jacobhandelman@gmail.com
 
 <!---
 Dezzep/Dezzep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
