@@ -1,5 +1,6 @@
-I'm Jacob,
-Learning web dev through the odin project.
+I'm Jacob
+My primary language is javascript, I'm currently learning REACT and working through the odin project.
+
 
 Reach me at: jacobhandelman@gmail.com
 
